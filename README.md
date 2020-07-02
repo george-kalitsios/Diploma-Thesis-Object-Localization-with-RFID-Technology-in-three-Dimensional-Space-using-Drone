@@ -21,3 +21,6 @@ RFID , Localization , Unmanned Aerial Vehicle , Handheld RFID reader , Fingerpri
 
 4 Algorithms in Python  : Initial Setup Visualization  & Results 3D Visualization & Results 3D Visualization using Arrows 
 
+MATLAB :   52.4%
+C :        25.8%
+Python :   21.8%
