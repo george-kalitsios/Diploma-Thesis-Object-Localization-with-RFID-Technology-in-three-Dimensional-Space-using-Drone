@@ -14,7 +14,8 @@ RFID , Localization , Unmanned Aerial Vehicle , Handheld RFID reader , Fingerpri
 
 
 # Diploma Thesis Algorithms 
-Master Thesis Algorithms 
+Integrated Master Thesis (300 ECTS) 
+Algorithms 
 
 
 1 Algorithms in C :  Using MercuryAPI packet I create an algorithm that Reads RFID tags and provides a command line user interface with a lot of read choices ( Transmit Power , Frequency and etc . )  
