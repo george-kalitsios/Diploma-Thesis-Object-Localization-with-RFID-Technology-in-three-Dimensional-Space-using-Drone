@@ -17,10 +17,4 @@ RFID , Localization , Unmanned Aerial Vehicle , Handheld RFID reader , Fingerpri
 
 1 Algorithms in C :  Using MercuryAPI packet I create an algorithm that Reads RFID tags and provides a command line user interface with a lot of read choices ( Transmit Power , Frequency and etc . )  
 
-2 Algorithms in Matlab : 3D Landmarc RFID Tags Localizatiion Algorithm  & Parametric 3D Landmarc RFID Tags Localizatiion Algorithm
-
 4 Algorithms in Python  : Initial Setup Visualization  & Results 3D Visualization & Results 3D Visualization using Arrows 
-
-MATLAB :   52.4%
-C :        25.8%
-Python :   21.8%
