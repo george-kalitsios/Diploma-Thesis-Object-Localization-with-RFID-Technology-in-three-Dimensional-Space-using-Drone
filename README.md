@@ -3,6 +3,8 @@
 
 ## Object Localization with RFID Technology in three-Dimensional Space using Drone and a Handheld RFID Reader
 
+### Electrical and Computer Engineering 
+### Aristotle University of Thessaloniki
 
 # Abstract
 
